@@ -1,3 +1,4 @@
 # Curso de _Git_ & _GIT HUB_
 
-Hola, soy ti amigo y docente digital
+Hola, soy tu amigo y docente digital JM
+Agregando mas contenido al _README_
