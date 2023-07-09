@@ -1,0 +1,24 @@
+* 9593e7d agregando párrafo 2
+| * b004809 agregando dos párrafos
+|/  
+*   a99d3fa resolviendo conflictos
+|\  
+| * 82cdb73 agregando estaciones del año
+* | 13ed25f agregando estaciones del año con fecha inicio
+|/  
+* 53d3d85 agregando html nueva con cambios
+| * ac87367 Agregando index.js al index.html
+|/  
+*   55e3adc Merge branch 'js'
+|\  
+| * 4b12628 corrección js
+| * 1962b2e creando archivo js
+* | ba75776 creando archivo css
+* | 9f64ad6 creadndo archivo index.html
+|/  
+* 4de6e42 iognorando archivo .exe
+* 77bab2f Create LICENSE
+* 5d881a8 correcciones en README.md
+* ef695cb Adgregando contenido al README
+* 505231c Agregando contenido iniial al README
+* 534e78a primer commit
