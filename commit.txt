@@ -1,0 +1,99 @@
+commit b004809eac3d02fecb62216ffdc06fccd4315bea
+Author: elenabozzo <elenabozzo@hotmail.com>
+Date:   Sun Jul 9 18:31:00 2023 -0300
+
+    agregando dos párrafos
+
+commit a99d3fa44cc2dea9de4b80d6f3e2427326b862b4
+Merge: 13ed25f 82cdb73
+Author: elenabozzo <elenabozzo@hotmail.com>
+Date:   Sun Jul 9 18:28:22 2023 -0300
+
+    resolviendo conflictos
+
+commit 13ed25fbad7a0508ee8b426182b4d80440dad0ac
+Author: elenabozzo <elenabozzo@hotmail.com>
+Date:   Sun Jul 9 17:58:05 2023 -0300
+
+    agregando estaciones del año con fecha inicio
+
+commit 82cdb73cf890706bad0c375d425a1ce354ebd70d
+Author: elenabozzo <elenabozzo@hotmail.com>
+Date:   Sun Jul 9 17:58:05 2023 -0300
+
+    agregando estaciones del año
+
+commit 53d3d858024a6b2532a9c8482aed90034c2ed8c7
+Author: elenabozzo <elenabozzo@hotmail.com>
+Date:   Sun Jul 9 17:44:07 2023 -0300
+
+    agregando html nueva con cambios
+
+commit 55e3adcce64308c877beb37aaa7f745014d70ff3
+Merge: ba75776 4b12628
+Author: elenabozzo <elenabozzo@hotmail.com>
+Date:   Sun Jul 9 17:25:47 2023 -0300
+
+    Merge branch 'js'
+
+commit 4b1262857546ac8455001493c279bb69264081fd
+Author: elenabozzo <elenabozzo@hotmail.com>
+Date:   Sun Jul 9 15:54:36 2023 -0300
+
+    corrección js
+
+commit 1962b2e6965d56d25fae63bbd68a752654bd653f
+Author: elenabozzo <elenabozzo@hotmail.com>
+Date:   Sun Jul 9 15:48:17 2023 -0300
+
+    creando archivo js
+
+commit ba75776fd482a842ee008323934b4d203e24e4f6
+Author: elenabozzo <elenabozzo@hotmail.com>
+Date:   Sun Jul 9 15:40:19 2023 -0300
+
+    creando archivo css
+
+commit 9f64ad6209151bc36df647fc92ec19904db7c903
+Author: elenabozzo <elenabozzo@hotmail.com>
+Date:   Sun Jul 9 15:22:18 2023 -0300
+
+    creadndo archivo index.html
+
+commit 4de6e4283a8fc3b3616dbee24c4eb8808b4801ab
+Author: elenabozzo <elenabozzo@hotmail.com>
+Date:   Sun Jul 9 15:07:52 2023 -0300
+
+    iognorando archivo .exe
+
+commit 77bab2f8184bb36759bd3c5b3dfe22a634fcb2a5
+Author: Elena Bozzo <133717553+Mebozzo@users.noreply.github.com>
+Date:   Sat Jul 8 16:46:50 2023 -0300
+
+    Create LICENSE
+    
+    Creando licencia
+
+commit 5d881a8fc93d0126783cda1c953c1323814a22df
+Author: elenabozzo <elenabozzo@hotmail.com>
+Date:   Sat Jul 8 16:41:02 2023 -0300
+
+    correcciones en README.md
+
+commit ef695cb261134286efab448c4d59f0e15ce42942
+Author: elenabozzo <elenabozzo@hotmail.com>
+Date:   Sat Jul 8 16:39:31 2023 -0300
+
+    Adgregando contenido al README
+
+commit 505231c2e4bc1cca41e587cfdc2fdd291125ea1e
+Author: elenabozzo <elenabozzo@hotmail.com>
+Date:   Sat Jul 8 16:32:12 2023 -0300
+
+    Agregando contenido iniial al README
+
+commit 534e78a5b9613edc09de97f7ba77ed2cc74bb6cd
+Author: elenabozzo <elenabozzo@hotmail.com>
+Date:   Sat Jul 8 16:05:13 2023 -0300
+
+    primer commit
